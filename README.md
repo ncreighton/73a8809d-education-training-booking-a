@@ -1,0 +1,2 @@
+# 73a8809d-education-training-booking-a
+education training professionals waste hours on wrestling with incompatible WordPress plugins that fight each other. This fixes that.  Fully documented admin settings panel — no code required for configuration. Regular security updates. Works with WordPress multisite.  ## What's Included  - Education &amp; Training Booking And Appointment — fully confi
